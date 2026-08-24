@@ -1,7 +1,8 @@
 {
   "FCO-BKK": {
     "prices": [
-      516
+      516,
+      582
     ],
     "notified": {
       "ROM-BKK-2027-02-06-2027-02-20": 516
@@ -9,6 +10,7 @@
   },
   "FCO-HKT": {
     "prices": [
+      492,
       492
     ],
     "notified": {
@@ -17,19 +19,22 @@
   },
   "MXP-CMB": {
     "prices": [
+      603,
       603
     ],
     "notified": {}
   },
   "MXP-BKK": {
     "prices": [
+      614,
       614
     ],
     "notified": {}
   },
   "MXP-HKT": {
     "prices": [
-      467
+      467,
+      516
     ],
     "notified": {
       "MIL-HKT-2027-01-11-2027-01-24": 467
@@ -37,6 +42,7 @@
   },
   "BGY-CMB": {
     "prices": [
+      504,
       504
     ],
     "notified": {
@@ -45,42 +51,49 @@
   },
   "BGY-BKK": {
     "prices": [
+      617,
       617
     ],
     "notified": {}
   },
   "BGY-DMK": {
     "prices": [
+      641,
       641
     ],
     "notified": {}
   },
   "BGY-HKT": {
     "prices": [
+      548,
       548
     ],
     "notified": {}
   },
   "BGY-KBV": {
     "prices": [
+      612,
       612
     ],
     "notified": {}
   },
   "NAP-BKK": {
     "prices": [
+      647,
       647
     ],
     "notified": {}
   },
   "NAP-DMK": {
     "prices": [
+      647,
       647
     ],
     "notified": {}
   },
   "FLR-BKK": {
     "prices": [
+      637,
       637
     ],
     "notified": {}
